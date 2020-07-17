@@ -2,3 +2,12 @@ body{
   background-color: #121212;
   color: #e1e1e1;
 }
+
+.title{
+  float: right;
+  margin-right: 2.5em;
+  font-size: 60px;
+  font-family: sans-serif;
+  text-decoration: overline underline;
+  text-decoration-style: dashed; 
+}
